@@ -1198,7 +1198,6 @@ window = Tk() #crée la fenetre nommée window
 window.title("tableau de mendeleiv") #nomme la fenetre window 
 window.minsize(360, 360)
 
-window.iconbitmap("SID.ico")
 window.config(background='#6298F6')
 window.bind_all('<Return>', masse_atomiques_2)
 
