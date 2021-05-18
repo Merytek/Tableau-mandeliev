@@ -1,0 +1,398 @@
+{
+    "1": {
+        "NAME": "Hydrogène",
+        "ATOM_NUM": "1",
+        "SYM": "H",
+        "ELEC": "1s1"
+    },
+    "H": {
+        "NAME": "Hydrogène",
+        "ATOM_NUM": "1",
+        "SYM": "H",
+        "ELEC": "1s1"
+    },
+    "Hydrogene": {
+        "NAME": "Hydrogène",
+        "ATOM_NUM": "1",
+        "SYM": "H",
+        "ELEC": "1s1"
+    },
+    "2": {
+        "NAME": "Helium",
+        "ATOM_NUM": "2",
+        "SYM": "He",
+        "ELEC": "1s2"
+    },
+    "He": {
+        "NAME": "Helium",
+        "ATOM_NUM": "2",
+        "SYM": "He",
+        "ELEC": "1s2"
+    },
+    "Helium": {
+        "NAME": "Helium",
+        "ATOM_NUM": "2",
+        "SYM": "He",
+        "ELEC": "1s2"
+    },
+    "3": {
+        "NAME": "Lithium",
+        "ATOM_NUM": "3",
+        "SYM": "Li",
+        "ELEC": "1s2 2s1"
+    },
+    "Li": {
+        "NAME": "Lithium",
+        "ATOM_NUM": "3",
+        "SYM": "Li",
+        "ELEC": "1s2 2s1"
+    },
+    "Lithium": {
+        "NAME": "Lithium",
+        "ATOM_NUM": "3",
+        "SYM": "Li",
+        "ELEC": "1s2 2s1"
+    },
+    "4": {
+        "NAME": "Beryllium",
+        "ATOM_NUM": "4",
+        "SYM": "Be",
+        "ELEC": "1s2 2s2"
+    },
+    "Beryllium": {
+        "NAME": "Beryllium",
+        "ATOM_NUM": "4",
+        "SYM": "Be",
+        "ELEC": "1s2 2s2"
+    },
+    "Be": {
+        "NAME": "Beryllium",
+        "ATOM_NUM": "4",
+        "SYM": "Be",
+        "ELEC": "1s2 2s2"
+    },
+    "5": {
+        "NAME": "Bore",
+        "ATOM_NUM": "5",
+        "SYM": "B",
+        "ELEC": "1s2 2s2 2p1"
+    },
+    "Bore": {
+        "NAME": "Bore",
+        "ATOM_NUM": "5",
+        "SYM": "B",
+        "ELEC": "1s2 2s2 2p1"
+    },
+    "B": {
+        "NAME": "Bore",
+        "ATOM_NUM": "5",
+        "SYM": "B",
+        "ELEC": "1s2 2s2 2p1"
+    },
+    "6": {
+        "NAME": "Carbone",
+        "ATOM_NUM": "6",
+        "SYM": "C",
+        "ELEC": "1s2 2s2 2p2"
+    },
+    "Carbone": {
+        "NAME": "Carbone",
+        "ATOM_NUM": "6",
+        "SYM": "C",
+        "ELEC": "1s2 2s2 2p2"
+    },
+    "C": {
+        "NAME": "Carbone",
+        "ATOM_NUM": "6",
+        "SYM": "C",
+        "ELEC": "1s2 2s2 2p2"
+    },
+    "7": {
+        "NAME": "Azote",
+        "ATOM_NUM": "7",
+        "SYM": "N",
+        "ELEC": "1s2 2s2 2p3"
+    },
+    "Azote": {
+        "NAME": "Azote",
+        "ATOM_NUM": "7",
+        "SYM": "N",
+        "ELEC": "1s2 2s2 2p3"
+    },
+    "N": {
+        "NAME": "Azote",
+        "ATOM_NUM": "7",
+        "SYM": "N",
+        "ELEC": "1s2 2s2 2p3"
+    },
+    "8": {
+        "NAME": "Oxygene",
+        "ATOM_NUM": "8",
+        "SYM": "O",
+        "ELEC": "1s2 2s2 2p4"
+    },
+    "Oxygene": {
+        "NAME": "Oxygene",
+        "ATOM_NUM": "8",
+        "SYM": "O",
+        "ELEC": "1s2 2s2 2p4"
+    },
+    "O": {
+        "NAME": "Oxygene",
+        "ATOM_NUM": "8",
+        "SYM": "O",
+        "ELEC": "1s2 2s2 2p4"
+    },
+    "9": {
+        "NAME": "Fluor",
+        "ATOM_NUM": "9",
+        "SYM": "F",
+        "ELEC": "1s2 2s2 2p5"
+    },
+    "Fluor": {
+        "NAME": "Fluor",
+        "ATOM_NUM": "9",
+        "SYM": "F",
+        "ELEC": "1s2 2s2 2p5"
+    },
+    "F": {
+        "NAME": "Fluor",
+        "ATOM_NUM": "9",
+        "SYM": "F",
+        "ELEC": "1s2 2s2 2p5"
+    },
+    "10": {
+        "NAME": "Neon",
+        "ATOM_NUM": "10",
+        "SYM": "Ne",
+        "ELEC": "1s2 2s2 2p6"
+    },
+    "Neon": {
+        "NAME": "Neon",
+        "ATOM_NUM": "10",
+        "SYM": "Ne",
+        "ELEC": "1s2 2s2 2p6"
+    },
+    "Ne": {
+        "NAME": "Neon",
+        "ATOM_NUM": "10",
+        "SYM": "Ne",
+        "ELEC": "1s2 2s2 2p6"
+    },
+    "11": {
+        "NAME": "Sodium",
+        "ATOM_NUM": "11",
+        "SYM": "Na",
+        "ELEC": "1s2 2s2 2p6 3s1"
+    },
+    "Sodium": {
+        "NAME": "Sodium",
+        "ATOM_NUM": "11",
+        "SYM": "Na",
+        "ELEC": "1s2 2s2 2p6 3s1"
+    },
+    "Na": {
+        "NAME": "Sodium",
+        "ATOM_NUM": "11",
+        "SYM": "Na",
+        "ELEC": "1s2 2s2 2p6 3s1"
+    },
+    "12": {
+        "NAME": "Magnesium",
+        "ATOM_NUM": "12",
+        "SYM": "Mg",
+        "ELEC": "1s2 2s2 2p6 3s2"
+    },
+    "Magnesium": {
+        "NAME": "Magnesium",
+        "ATOM_NUM": "12",
+        "SYM": "Mg",
+        "ELEC": "1s2 2s2 2p6 3s2"
+    },
+    "Mg": {
+        "NAME": "Magnesium",
+        "ATOM_NUM": "12",
+        "SYM": "Mg",
+        "ELEC": "1s2 2s2 2p6 3s2"
+    },
+    "13": {
+        "NAME": "Aluminium",
+        "ATOM_NUM": "13",
+        "SYM": "Al",
+        "ELEC": "1s2 2s2 2p6 3s2 3p1"
+    },
+    "Aluminium": {
+        "NAME": "Aluminium",
+        "ATOM_NUM": "13",
+        "SYM": "Al",
+        "ELEC": "1s2 2s2 2p6 3s2 3p1"
+    },
+    "Al": {
+        "NAME": "Aluminium",
+        "ATOM_NUM": "13",
+        "SYM": "Al",
+        "ELEC": "1s2 2s2 2p6 3s2 3p1"
+    },
+    "14": {
+        "NAME": "Silicium",
+        "ATOM_NUM": "14",
+        "SYM": "Si",
+        "ELEC": "1s2 2s2 2p6 3s2 3p2"
+    },
+    "Silicium": {
+        "NAME": "Silicium",
+        "ATOM_NUM": "14",
+        "SYM": "Si",
+        "ELEC": "1s2 2s2 2p6 3s2 3p2"
+    },
+    "Si": {
+        "NAME": "Silicium",
+        "ATOM_NUM": "14",
+        "SYM": "Si",
+        "ELEC": "1s2 2s2 2p6 3s2 3p2"
+    },
+    "15": {
+        "NAME": "Phosphore",
+        "ATOM_NUM": "15",
+        "SYM": "P",
+        "ELEC": "1s2 2s2 2p6 3s2 3p3"
+    },
+    "P": {
+        "NAME": "Phosphore",
+        "ATOM_NUM": "15",
+        "SYM": "P",
+        "ELEC": "1s2 2s2 2p6 3s2 3p3"
+    },
+    "Phosphore": {
+        "NAME": "Phosphore",
+        "ATOM_NUM": "15",
+        "SYM": "P",
+        "ELEC": "1s2 2s2 2p6 3s2 3p3"
+    },
+    "16": {
+        "NAME": "Souffre",
+        "ATOM_NUM": "16",
+        "SYM": "S",
+        "ELEC": "1s2 2s2 2p6 3s2 3p4"
+    },
+    "S": {
+        "NAME": "Souffre",
+        "ATOM_NUM": "16",
+        "SYM": "S",
+        "ELEC": "1s2 2s2 2p6 3s2 3p4"
+    },
+    "Souffre": {
+        "NAME": "Souffre",
+        "ATOM_NUM": "16",
+        "SYM": "S",
+        "ELEC": "1s2 2s2 2p6 3s2 3p4"
+    },
+    "17": {
+        "NAME": "Chlore",
+        "ATOM_NUM": "17",
+        "SYM": "Cl",
+        "ELEC": "1s2 2s2 2p6 3s2 3p5"
+    },
+    "Cl": {
+        "NAME": "Chlore",
+        "ATOM_NUM": "17",
+        "SYM": "Cl",
+        "ELEC": "1s2 2s2 2p6 3s2 3p5"
+    },
+    "Chlore": {
+        "NAME": "Chlore",
+        "ATOM_NUM": "17",
+        "SYM": "Cl",
+        "ELEC": "1s2 2s2 2p6 3s2 3p5"
+    },
+    "18": {
+        "NAME": "Argon",
+        "ATOM_NUM": "18",
+        "SYM": "Ar",
+        "ELEC": "1s2 2s2 2p6 3s2 3p6"
+    },
+    "Ar": {
+        "NAME": "Argon",
+        "ATOM_NUM": "18",
+        "SYM": "Ar",
+        "ELEC": "1s2 2s2 2p6 3s2 3p6"
+    },
+    "Argon": {
+        "NAME": "Argon",
+        "ATOM_NUM": "18",
+        "SYM": "Ar",
+        "ELEC": "1s2 2s2 2p6 3s2 3p6"
+    },
+    "19": {
+        "NAME": "Potassium",
+        "ATOM_NUM": "19",
+        "SYM": "K",
+        "ELEC": "1s2 2s2 2p6 3s2 3p6 4s1"
+    },
+    "K": {
+        "NAME": "Potassium",
+        "ATOM_NUM": "19",
+        "SYM": "K",
+        "ELEC": "1s2 2s2 2p6 3s2 3p6 4s1"
+    },
+    "Potassium": {
+        "NAME": "Potassium",
+        "ATOM_NUM": "19",
+        "SYM": "K",
+        "ELEC": "1s2 2s2 2p6 3s2 3p6 4s1"
+    },
+    "20": {
+        "NAME": "Calcium",
+        "ATOM_NUM": "20",
+        "SYM": "Ca",
+        "ELEC": "1s2 2s2 2p6 3s2 3p6 4s2"
+    },
+    "Ca": {
+        "NAME": "Calcium",
+        "ATOM_NUM": "20",
+        "SYM": "Ca",
+        "ELEC": "1s2 2s2 2p6 3s2 3p6 4s2"
+    },
+    "Calcium": {
+        "NAME": "Calcium",
+        "ATOM_NUM": "20",
+        "SYM": "Ca",
+        "ELEC": "1s2 2s2 2p6 3s2 3p6 4s2"
+    },
+    "21": {
+        "NAME": "Scandium",
+        "ATOM_NUM": "21",
+        "SYM": "Sc",
+        "ELEC": "1s2 2s2 2p6 3s2 3p6 4s2 3d1"
+    },
+    "Sc": {
+        "NAME": "Scandium",
+        "ATOM_NUM": "21",
+        "SYM": "Sc",
+        "ELEC": "1s2 2s2 2p6 3s2 3p6 4s2 3d1"
+    },
+    "Scandium": {
+        "NAME": "Scandium",
+        "ATOM_NUM": "21",
+        "SYM": "Sc",
+        "ELEC": "1s2 2s2 2p6 3s2 3p6 4s2 3d1"
+    },
+    "22": {
+        "NAME": "Titane",
+        "ATOM_NUM": "22",
+        "SYM": "Ti",
+        "ELEC": "1s2 2s2 2p6 3s2 3p6 4s2 3d2"
+    },
+    "Ti": {
+        "NAME": "Titane",
+        "ATOM_NUM": "22",
+        "SYM": "Ti",
+        "ELEC": "1s2 2s2 2p6 3s2 3p6 4s2 3d2"
+    },
+    "Titane": {
+        "NAME": "Titane",
+        "ATOM_NUM": "22",
+        "SYM": "Ti",
+        "ELEC": "1s2 2s2 2p6 3s2 3p6 4s2 3d2"
+    }
+}
